@@ -61,6 +61,7 @@ chmod 400 your-key.pem
 ssh -i aws-login.pem ubuntu@65.2.171.222
  Update System
 sudo apt update
+```
 
 ### Install Nginx
 ```bash
